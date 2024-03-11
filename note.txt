@@ -1,0 +1,7 @@
+13-10-2021
+Project List:
+1. why chooses CURD
+2. services CURD
+3. clients CURD
+4. pricing tables CURD
+5. photo gallery CURD
